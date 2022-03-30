@@ -2,8 +2,9 @@ cmake_minimum_required(VERSION 3.0.0)
 
 set( VAR a b c;d "e;f" 2.7 "Hello There" )
 
+
 list(APPEND VAR 1.6 XX)
-message( ${VAR} )
+message (${VAR})
 
 list(REMOVE_AT VAR 2 -3)
 message( ${VAR} )
@@ -17,7 +18,7 @@ message( ${VAR} )
 list(REVERSE VAR)
 message( ${VAR} )
 
-list( REMOVE_DUPLICATES VAR )
+list(REMOVE_DUPLICATES VAR )
 message( ${VAR} )
 
 list( SORT VAR)
@@ -70,12 +71,3 @@ message(${equality_check_var})
 
 string(COMPARE GREATER ${upper_case_var} "some random string"  greater_check_var)
 message(${greater_check_var})
-
-
-
-
-
-
-
-
-
