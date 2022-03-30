@@ -1,0 +1,5 @@
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l4_Generating_the_First_Library/build/CMakeFiles/my_math.dir
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l4_Generating_the_First_Library/build/CMakeFiles/my_print.dir
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l4_Generating_the_First_Library/build/CMakeFiles/calc2.dir
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l4_Generating_the_First_Library/build/CMakeFiles/edit_cache.dir
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l4_Generating_the_First_Library/build/CMakeFiles/rebuild_cache.dir

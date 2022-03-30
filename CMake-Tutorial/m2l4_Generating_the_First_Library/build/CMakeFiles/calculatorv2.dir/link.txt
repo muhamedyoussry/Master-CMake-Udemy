@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\calculatorv2.dir/objects.a
+C:\Strawberry\c\bin\ar.exe qc CMakeFiles\calculatorv2.dir/objects.a @CMakeFiles\calculatorv2.dir\objects1.rsp
+C:\Strawberry\c\bin\g++.exe -Wl,--whole-archive CMakeFiles\calculatorv2.dir/objects.a -Wl,--no-whole-archive -o calculatorv2.exe -Wl,--out-implib,libcalculatorv2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\calculatorv2.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l3_Generating_the_First_Executable_using_CMake/build/CMakeFiles/calculator.dir
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l3_Generating_the_First_Executable_using_CMake/build/CMakeFiles/edit_cache.dir
+G:/MedSoft/Training/Master-CMake-Udemy/CMake-Tutorial/m2l3_Generating_the_First_Executable_using_CMake/build/CMakeFiles/rebuild_cache.dir

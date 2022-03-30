@@ -1,0 +1,2 @@
+C:\Strawberry\c\bin\ar.exe qc libmy_math.a CMakeFiles/my_math.dir/addition.cpp.obj CMakeFiles/my_math.dir/division.cpp.obj
+C:\Strawberry\c\bin\ranlib.exe libmy_math.a
